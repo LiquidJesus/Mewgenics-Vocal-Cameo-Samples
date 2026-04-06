@@ -1,6 +1,8 @@
-# Cat Voice Line Cameos From Mewgenics
-### ***This Repository Compiles All Cat Vocal Cameo Lines Such as - Meows, Hisses, and Other Feline Sounds Performed by Internet Personalities, Streamers, Musicians, Developers, and Actors. All Audio Clips Have Been Extracted from the Video Game "Mewgenics"***
+# Cat Voice Lines (Mewgenics)
 
+An archive of cat voice lines from the game *Mewgenics* 
+including meows, hisses, and other feline sounds performed by internet 
+personalities, streamers, musicians, developers, and actors.
 
 > [!IMPORTANT]
 > All audio files are the intellectual property of Edmund McMillen and Tyler Glaiel. This is an unofficial
